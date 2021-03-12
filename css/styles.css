@@ -134,6 +134,7 @@ body{
 .card {
         height: 100%;
         display: flex;
+        padding: 3%;
     }
 .card-header{
   text-align: center;
