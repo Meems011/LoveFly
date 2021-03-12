@@ -162,3 +162,12 @@ body{
     background-color: #ff4c68;
     padding-bottom: 16px;
 }
+
+@media (max-width: 910px) {
+  #title {
+    text-align: center;
+  }
+  .title-text {
+    font-size: 3.5rem;
+  }
+}
