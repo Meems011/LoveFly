@@ -18,12 +18,12 @@ body{
 
 #title {
   background-color: #f26d7e;
-/*   min-height: 90vh; */
+  /* min-height: 90vh; */
   color: white;
 }
 
 .container-fluid {
-  padding: 3% 10%;
+  padding: 3% 10% 10%;
 
 }
 .navbar {
@@ -48,13 +48,12 @@ body{
   margin: 8% 3% 5% 0;
 }
 .title-img {
-  /* width: 60%; */
-  /* transform: rotate(25deg); */
+
 }
 
 #features {
-  position: relative;
   text-align: center;
+  background-color: white;
 }
 
  /* partea a doua */
@@ -134,7 +133,7 @@ body{
 .card {
         height: 100%;
         display: flex;
-        padding: 3%;
+        padding: 2%
     }
 .card-header{
   text-align: center;
@@ -164,7 +163,7 @@ body{
     padding-bottom: 16px;
 }
 
-@media (max-width: 910px) {
+@media screen and (max-width: 910px) {
   #title {
     text-align: center;
   }
