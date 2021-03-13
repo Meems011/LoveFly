@@ -162,7 +162,7 @@ body{
     padding-bottom: 16px;
 }
 
-@media screen and (max-width: 910px) {
+@media (max-width: 910px) {
   #title {
     text-align: center;
   }
