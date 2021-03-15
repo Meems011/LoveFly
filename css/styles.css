@@ -104,12 +104,12 @@ body{
 
 #testimonials {
   text-align: center;
-  background-color: #ff4c68;
+  background-color: #f26d7e;
   color: white;
 }
 .testiomanials-img{
   border-radius: 50%;
-  background-color: #ff4c68;
+  background-color: #f26d7e;
   width: 50%;
 }
 .carousel-item{
@@ -118,7 +118,7 @@ body{
 
 #press {
   text-align: center;
-  background-color: #ff4c68;
+  background-color: #f26d7e;
   padding-bottom: 3%;
   padding-top: 2%;
 }
@@ -161,7 +161,7 @@ body{
   text-align: center;
   color: white;
   font-family: 'Montserrat';
-  background-color: #ff4c68;
+  background-color: #f26d7e;
   padding: 2% 16px 2% 16px;
 }
 .cta-text{
