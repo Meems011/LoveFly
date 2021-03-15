@@ -15,13 +15,12 @@ body{
   font-family: 'Montserrat', sans-serif;
 }
 
+/* Prima pagina */
 
 #title {
   background-color: #f26d7e;
-  /* min-height: 90vh; */
   color: white;
 }
-
 .container-fluid {
   padding: 3% 10% 10%;
 }
@@ -55,7 +54,8 @@ body{
   background-color: white;
 }
 
- /* partea a doua */
+ /* pagina a doua */
+
 .feature-heading {
   font-weight: 700;
   font-family: "Montserrat";
@@ -67,29 +67,27 @@ body{
   color: #807a7a;
   font-size: 1rem;
   width: 45%;
-  margin: auto auto 150px auto;
+  margin: auto auto 100px auto;
 }
 .check-btn{
   color:#ff4c68;
-  padding-top: 150px;
+  padding-top: 100px;
   padding-bottom: 30px;
 }
 .check-btn:hover{
   color:#db0000;
 }
-
 .bullseye-btn {
   color:#ff4c68;
-  padding-top: 150px;
+  padding-top: 100px;
   padding-bottom: 30px;
 }
 .bullseye-btn:hover{
   color:#db0000;
 }
-
 .heart-btn{
    color:#ff4c68;
-   padding-top: 150px;
+   padding-top: 100px;
    padding-bottom: 30px;
 }
 .heart-btn:hover {
@@ -97,6 +95,7 @@ body{
 }
 
 /* Testimonials Section */
+
 #testimonials {
   text-align: center;
   background-color: #ff4c68;
@@ -121,6 +120,8 @@ body{
   width: 15%;
   margin: 20px 20px 50px;
 }
+
+/* Preturi */
 
 #pricing {
   padding: 100px;
@@ -148,6 +149,8 @@ body{
   width: 100%;
 }
 
+/* Contact + footer */
+
 #cta {
   text-align: center;
   color: white;
@@ -161,6 +164,8 @@ body{
     background-color: #ff4c68;
     padding-bottom: 16px;
 }
+
+/* Mobile */
 
 @media screen and (max-width: 910px) {
   #title {
